@@ -2,7 +2,7 @@
 
 Update site for Eclipse plugins
 
-JiraConnector: https://gnl42.github.io/JiraConnector-update/
+JiraConnector: [JiraConnector](https://gnl42.github.io/JiraConnector-update/)
 
 Plugins resurrected from the dead:
 - QuickImage: [QuickImage](https://gnl42.github.io/QuickImage-update/)
