@@ -2,6 +2,9 @@
 
 Update site for Eclipse plugins
 
+BambooConnector: [BambooConnector](https://gnl42.github.io/BambooConnector-update/)
+
+
 JiraConnector: [JiraConnector](https://gnl42.github.io/JiraConnector-update/)
 
 Plugins resurrected from the dead:
