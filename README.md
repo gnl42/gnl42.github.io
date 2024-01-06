@@ -9,4 +9,4 @@ Update site for Eclipse plugins:
 Plugins resurrected from the dead:
 
 - http4e2: [http4e2](https://gnl42.github.io/http4e2-update/)
-- Bracketeer: [Bracketeer](https://gnl42.github.io/Bracketeer-update/)
+- Bracketeer2: [Bracketeer2](https://gnl42.github.io/Bracketeer2-update/)
