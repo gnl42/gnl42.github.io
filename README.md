@@ -8,3 +8,4 @@ Update site for Eclipse plugins:
 - http4e2: [http4e2](https://gnl42.github.io/http4e2-update/)
 - Bracketeer2: [Bracketeer2](https://gnl42.github.io/Bracketeer2-update/)
 - CsvEdit2: [CsvEdit2](https://gnl42.github.io/CsvEdit2-update/)
+- PDE Tools2: [PDE Tools 2](https://gnl42.github.io/pde-tools2-update/)
